@@ -11,6 +11,15 @@ A simple android project that demonstrates how to implement Android Architecture
 2. [Retrofit](http://square.github.io/retrofit/)
 3. [OkHttp](http://square.github.io/okhttp/)
 
+### Contact - Let's connect to each other
+- [Twitter](https://twitter.com/KumarAnkitRKE)
+- [Github](https://github.com/AnkitDroidGit)
+- [LinkedIn](https://www.linkedin.com/in/kumarankitkumar/)
+- [Facebook](https://www.facebook.com/freeankit)
+- [Slack](https://ankitdroid.slack.com)
+- [Stackoverflow](https://stackoverflow.com/users/3282461/android)
+- [Android App](https://play.google.com/store/apps/details?id=com.freeankit.ankitprofile)
+
 
 ### License
 
